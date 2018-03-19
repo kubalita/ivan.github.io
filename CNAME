@@ -1,5 +1,1 @@
-dig www.ivanvidal.design +nostats +nocomments +nocmd
-;www.ivanvidal.design.                     IN      A
-www.ivanvidal.design.              3592    IN      CNAME   kubalita.github.io.
-kubalita.github.io.           43192   IN      CNAME  < GITHUB-PAGES-SERVER >.
-  < GITHUB-PAGES-SERVER >.      22      IN      A       199.27.XX.XXX
+ivanvidal.design
